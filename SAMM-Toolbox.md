@@ -1,1 +1,0 @@
-[SAMM v2 Google Spreadsheet Toolbox](https://docs.google.com/spreadsheets/d/1qncG0gM6QmIMf-dcTKT0z6qd8ietO_A1WcVYPBS0KhM/edit?usp=sharing)
